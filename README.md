@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ioana-i
 - 👀 I’m interested in software development & cybersecurity
-- 🌱 I’m currently learning programming
+- 🌱 Currently learning programming
 
 <!---
 ioana-i/ioana-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
